@@ -1,0 +1,14 @@
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\bin\Debug\netcoreapp3.1\Dotnet_Sample.exe
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\bin\Debug\netcoreapp3.1\Dotnet_Sample.deps.json
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\bin\Debug\netcoreapp3.1\Dotnet_Sample.runtimeconfig.json
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\bin\Debug\netcoreapp3.1\Dotnet_Sample.runtimeconfig.dev.json
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\bin\Debug\netcoreapp3.1\Dotnet_Sample.dll
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\bin\Debug\netcoreapp3.1\Dotnet_Sample.pdb
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\obj\Debug\netcoreapp3.1\Dotnet_Sample.csproj.AssemblyReference.cache
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\obj\Debug\netcoreapp3.1\Dotnet_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\obj\Debug\netcoreapp3.1\Dotnet_Sample.AssemblyInfoInputs.cache
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\obj\Debug\netcoreapp3.1\Dotnet_Sample.AssemblyInfo.cs
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\obj\Debug\netcoreapp3.1\Dotnet_Sample.csproj.CoreCompileInputs.cache
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\obj\Debug\netcoreapp3.1\Dotnet_Sample.dll
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\obj\Debug\netcoreapp3.1\Dotnet_Sample.pdb
+C:\Users\alons\Desktop\LinuxMac\Dotnet_Sample\Dotnet_Sample\obj\Debug\netcoreapp3.1\Dotnet_Sample.genruntimeconfig.cache
